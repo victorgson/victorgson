@@ -1,0 +1,28 @@
+.main-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  margin: 0;
+  padding: 0;
+  background-color: #4c5f6b;
+  height: 100vh;
+}
+
+p {
+  margin-top: 0.5em;
+}
+
+.links-container {
+  display: flex;
+  margin-top: 2em;
+}
+
+.icon {
+}
+
+h1,
+p {
+  color: white;
+}
