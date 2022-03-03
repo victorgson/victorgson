@@ -2,8 +2,9 @@ import React from 'react'
 import "./home.css";
 import { IoLogoGithub, IoLogoLinkedin } from "react-icons/io5";
 import { IconContext } from "react-icons";
+import { Link } from 'react-router-dom';
 
-function home() {
+function Home() {
 
   return (
     <div className="main-container">
@@ -29,9 +30,10 @@ function home() {
 
 
       </div>
-      <p> <a href="#"> Projects </a></p>
+
+      <Link to="/projects">Projects</Link>
     </div>
   )
 }
 
-export default home
+export default Home
