@@ -26,8 +26,11 @@ function home() {
             </div>
           </IconContext.Provider>
         </a>
+
+
       </div>
-    </div >
+      <p> <a href="#"> Projects </a></p>
+    </div>
   )
 }
 
