@@ -13,13 +13,13 @@ function Home() {
 
 
       <div className="links-container">
-        <a href="https://github.com/victorgson" className="icon">
+        <a href="https://github.com/victorgson" className="icon" target="_blank" rel="noreferrer">
           <IconContext.Provider value={{ style: { color: "white", height: "45px", width: "45px" } }}>
             <div>
               <IoLogoGithub />
             </div>
           </IconContext.Provider></a>
-        <a href="https://www.linkedin.com/in/victorgustafsson/" className="icon">
+        <a href="https://www.linkedin.com/in/victorgustafsson/" className="icon" target="_blank" rel="noreferrer">
 
           <IconContext.Provider value={{ style: { color: "white", height: "45px", width: "45px" } }}>
             <div>
@@ -31,7 +31,7 @@ function Home() {
 
       </div>
 
-      <Link to="/projects">Projects</Link>
+      <Link to="/projects"> Projects</Link>
     </div>
   )
 }
