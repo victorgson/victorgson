@@ -5,7 +5,6 @@ import { IconContext } from "react-icons";
 import { Link } from 'react-router-dom';
 
 function Home() {
-
   return (
     <div className="main-container">
       <h1> Victor Gustafsson </h1>
@@ -27,6 +26,7 @@ function Home() {
             </div>
           </IconContext.Provider>
         </a>
+
 
 
       </div>
