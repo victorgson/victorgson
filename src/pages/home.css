@@ -3,7 +3,6 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
-
   margin: 0;
   padding: 0;
   background-color: #4c5f6b;
@@ -21,5 +20,5 @@ p {
 
 h1,
 p {
-  color: white;
+  color: #fff;
 }
