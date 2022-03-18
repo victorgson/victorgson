@@ -29,11 +29,7 @@
 <br />
 
 #### Find me on  
-
- <p align='left'>
-   <a href="https://www.linkedin.com/in/victorgustafsson" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></a>&nbsp;&nbsp;
- 
- </p>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/victorgustafsson/)
 
 
 
