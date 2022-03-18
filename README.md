@@ -4,8 +4,8 @@
 
 - 🎓 I'm a App Developer student @ IT Högskolan
 - ⚡ I love programming, running and sports.
-
- <br />
+ 
+ ----- 
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorgson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
@@ -15,6 +15,7 @@
 - Swift, storyboard & SwiftUI
 - HTML, CSS & JavaScript
 
+  ----- 
  
 <br />
 
