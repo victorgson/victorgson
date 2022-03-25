@@ -1,4 +1,6 @@
 .App {
   margin: 0;
   padding: 0;
+  background-color: #4c5f6b;
+  min-height: 100vh;
 }

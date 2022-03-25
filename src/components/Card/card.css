@@ -1,0 +1,47 @@
+h1 {
+  font-weight: bolder;
+  margin: 10px;
+  font-size: 1.6em;
+}
+
+p {
+  margin: 10px;
+}
+
+.text {
+  text-align: center;
+  color: black;
+}
+
+.link {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.image {
+  position: relative;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.card {
+  position: relative;
+  background-color: #fff;
+  height: 380px;
+  width: 230px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  border: 1px solid grey;
+  box-shadow: -5px 6px 28px -6px rgba(0, 0, 0, 0.8);
+  -webkit-box-shadow: -5px 6px 28px -6px rgba(0, 0, 0, 0.8);
+  -moz-box-shadow: -5px 6px 28px -6px rgba(0, 0, 0, 0.8);
+}
+
+@media (min-width: 768px) {
+  .card {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+}
