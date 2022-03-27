@@ -1,16 +1,9 @@
-h1 {
-  font-weight: bolder;
-  margin: 10px;
-  font-size: 1.6em;
-}
-
-p {
-  margin: 10px;
-}
-
 .text {
   text-align: center;
   color: #fff;
+  font-weight: bolder;
+  margin: 10px;
+  font-size: 1.6em;
 }
 
 #text-container {
