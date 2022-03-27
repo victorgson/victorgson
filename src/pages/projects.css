@@ -12,6 +12,15 @@
 
 @media (min-width: 768px) {
   .container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .subcontainer {
+    display: flex;
     flex-direction: row;
     flex-wrap: wrap;
   }

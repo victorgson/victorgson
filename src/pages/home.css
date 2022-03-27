@@ -1,3 +1,19 @@
+p {
+  margin-top: 0.5em;
+}
+
+h1,
+h2,
+p {
+  color: #fff;
+}
+
+.hero-title {
+  font-size: 3em;
+}
+.hero-subtitle {
+  font-size: 1.2em;
+}
 .main-container {
   display: flex;
   align-items: center;
@@ -5,20 +21,124 @@
   flex-direction: column;
   margin: 0;
   padding: 0;
-  background-color: #4c5f6b;
+  background: rgb(40, 38, 161);
+  background: linear-gradient(
+    183deg,
+    rgba(40, 38, 161, 1) 0%,
+    rgba(7, 6, 64, 1) 100%
+  );
   height: 100vh;
+  border-bottom: 2px solid #0a0a57;
 }
-
-p {
-  margin-top: 0.5em;
-}
-
 .links-container {
   display: flex;
   margin-top: 2em;
 }
 
-h1,
-p {
+.about {
+  width: 100%;
+  height: 100vh;
+}
+
+.about h1 {
+  margin-bottom: 1em;
+  font-size: 5em;
+  margin-left: 2em;
+  word-wrap: normal;
+}
+
+.nav {
+  display: flex;
+  margin: 0 auto 0 auto;
+  justify-content: space-around;
   color: #fff;
+  width: 80%;
+  border-bottom: 1px solid #211f90;
+}
+
+.nav-item {
+  display: block;
+  width: 100%;
+  height: 55px;
+  padding: 20px 20px 0 s20px;
+  font-size: 2em;
+  flex-wrap: wrap;
+  text-align: center;
+  cursor: pointer;
+}
+
+.nav-item-active {
+  border-bottom: 3px solid #fff;
+}
+
+.nav-item:hover {
+  border-bottom: 3px solid #fff;
+  transition: border-width 0.2s ease;
+}
+
+.profile-image {
+  position: absolute;
+  bottom: 0;
+  right: 200px;
+}
+
+.portfolio {
+  height: 100vh;
+  background: rgb(40, 38, 161);
+  background: linear-gradient(
+    0deg,
+    rgba(40, 38, 161, 1) 0%,
+    rgba(7, 6, 64, 1) 100%
+  );
+}
+
+footer {
+}
+
+footer p {
+  text-align: center;
+  padding: 0 0 20px 0;
+  margin: 0;
+}
+
+/* Media queries ----- FIX MOBILE FIRST  */
+
+@media screen and (max-width: 768px) {
+  .nav {
+    flex-wrap: wrap;
+    border-left: 1px solid #211f90 !important;
+    border-bottom: none;
+  }
+
+  .nav-item-active {
+    border-left: 3px solid #fff;
+    border-bottom: none;
+  }
+
+  .nav-item:hover {
+    border-left: 3px solid #fff;
+    border-bottom: none;
+    transition: border-width 0.2s ease;
+  }
+  .about h1 {
+    font-size: 2em;
+    text-align: center;
+    margin-left: 0;
+  }
+
+  .profile-image {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .profile-image {
+    right: 0px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .profile-image {
+    right: 280px;
+  }
 }

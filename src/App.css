@@ -1,6 +1,11 @@
 .App {
   margin: 0;
   padding: 0;
-  background-color: #4c5f6b;
+  background-color: #070640;
   min-height: 100vh;
+}
+
+p {
+  margin: 0;
+  padding: 0;
 }
