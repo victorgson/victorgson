@@ -92,8 +92,7 @@ function Home() {
                   <li key={item.key} className={`nav-item ${activeItem === i ? "nav-item-active" : null}`}
                     onClick={() => {
                       handleOnClick(i)
-                    }}>
-                    <a className="nav-text"> {item.name} </a>
+                    }}> {item.name}
                   </li>
                 )
               })
@@ -103,7 +102,7 @@ function Home() {
         </nav>
 
         <div>
-          <img />
+          <img src="" />
         </div>
       </section>
 
