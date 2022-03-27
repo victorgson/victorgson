@@ -102,7 +102,7 @@ function Home() {
         </nav>
 
         <div>
-          <img src="" />
+
         </div>
       </section>
 
