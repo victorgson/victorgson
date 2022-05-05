@@ -7,7 +7,7 @@
 - ⚡ I love programming, running and sports.
  
 ----
- 
+
 
  
 - React & React Native 
@@ -24,5 +24,7 @@
 
 #### Find me on  
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/victorgustafsson/)
+ 
+ ###  [![wakatime](https://wakatime.com/badge/user/00c0bb98-4954-473a-bcb6-f3938e58972e.svg)](https://wakatime.com/@00c0bb98-4954-473a-bcb6-f3938e58972e)
 
 -----
