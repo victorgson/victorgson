@@ -1,5 +1,7 @@
-
-<h2 align="left">Hi, I'm <a href="https://www.linkedin.com/in/victorgustafsson" target="_blank" rel="noopener noreferrer"> Victor Gustafsson </a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
+<p align="right">
+<a href="https://wakatime.com/@00c0bb98-4954-473a-bcb6-f3938e58972e"><img src="https://wakatime.com/badge/user/00c0bb98-4954-473a-bcb6-f3938e58972e.svg" alt="Total time coded since Dec 8 2021" /></a>
+ </p>
+ <h1 align='center'>Victor Gustafsson</h1>
  
 ####
 
@@ -16,8 +18,10 @@
 - Swift, storyboard & SwiftUI
 - Vue
 - HTML, CSS & JavaScript
+ <div align="center">
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorgson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ </div>
 
 ####
  
@@ -25,6 +29,4 @@
 #### Find me on  
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/victorgustafsson/)
  
- ###  [![wakatime](https://wakatime.com/badge/user/00c0bb98-4954-473a-bcb6-f3938e58972e.svg)](https://wakatime.com/@00c0bb98-4954-473a-bcb6-f3938e58972e)
-
 -----
