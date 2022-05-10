@@ -10,14 +10,15 @@
  
 ----
 
-
- 
-- React & React Native 
+ # Web 
 - MERN - MongoDB, Express, React, Node
+- MEVN - MongoDB, Express, Vue, Node
+
+# App 
 - Java and Android studio
 - Swift, storyboard & SwiftUI
-- Vue
-- HTML, CSS & JavaScript
+- React Native 
+
  <div align="center">
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorgson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
