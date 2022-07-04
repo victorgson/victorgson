@@ -16,7 +16,7 @@
 
 # App 
 - Java and Android studio
-- Swift, storyboard & SwiftUI
+- Swift, UIKit & SwiftUI
 - React Native 
 
  <div align="center">
