@@ -1,6 +1,4 @@
 <p align="right">
-<a href="https://wakatime.com/@00c0bb98-4954-473a-bcb6-f3938e58972e"><img src="https://wakatime.com/badge/user/00c0bb98-4954-473a-bcb6-f3938e58972e.svg" alt="Total time coded since Dec 8 2021" /></a>
- </p>
  <h1 align='center'>Victor Gustafsson</h1>
  
 ####
