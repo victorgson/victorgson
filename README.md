@@ -17,7 +17,7 @@
 - MEVN - MongoDB, Express, Vue, Node
  <div align="center">
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorgson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorgson&count_private=truen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  </div>
 
 ####
