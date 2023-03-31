@@ -3,20 +3,19 @@
  
 ####
 
-- 🎓 I'm a App Developer student @ IT Högskolan
+- 🎓 I'm a App Developer student @ IT Högskolan.
+- My primary focus lies in Swift and iOS development, which piques my interest the most.
 - ⚡ I love programming, running and sports.
  
 ----
+# App 
+- Swift, UIKit, SwiftUI & Combine
+- Java and Android studio
+- React Native 
 
  # Web 
 - MERN - MongoDB, Express, React, Node
 - MEVN - MongoDB, Express, Vue, Node
-
-# App 
-- Java and Android studio
-- Swift, UIKit & SwiftUI
-- React Native 
-
  <div align="center">
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorgson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
