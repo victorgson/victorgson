@@ -3,9 +3,8 @@
  
 ####
 
-- 🎓 I'm a App Developer student @ IT Högskolan.
+- I'm a App Developer student @ IT Högskolan.
 - My primary focus lies in Swift and iOS development, which piques my interest the most.
-- ⚡ I love programming, running and sports.
  
 ----
 # App 
